@@ -1,0 +1,15 @@
+/home/camillia/Etudes/ESGI/4AL/CC design/AbstractFactoryNetflixDemo/AbstractFactoryNetflixDemo/bin/Debug/net8.0/AbstractFactoryNetflixDemo
+/home/camillia/Etudes/ESGI/4AL/CC design/AbstractFactoryNetflixDemo/AbstractFactoryNetflixDemo/bin/Debug/net8.0/AbstractFactoryNetflixDemo.deps.json
+/home/camillia/Etudes/ESGI/4AL/CC design/AbstractFactoryNetflixDemo/AbstractFactoryNetflixDemo/bin/Debug/net8.0/AbstractFactoryNetflixDemo.runtimeconfig.json
+/home/camillia/Etudes/ESGI/4AL/CC design/AbstractFactoryNetflixDemo/AbstractFactoryNetflixDemo/bin/Debug/net8.0/AbstractFactoryNetflixDemo.dll
+/home/camillia/Etudes/ESGI/4AL/CC design/AbstractFactoryNetflixDemo/AbstractFactoryNetflixDemo/bin/Debug/net8.0/AbstractFactoryNetflixDemo.pdb
+/home/camillia/Etudes/ESGI/4AL/CC design/AbstractFactoryNetflixDemo/AbstractFactoryNetflixDemo/obj/Debug/net8.0/AbstractFactoryNetflixDemo.GeneratedMSBuildEditorConfig.editorconfig
+/home/camillia/Etudes/ESGI/4AL/CC design/AbstractFactoryNetflixDemo/AbstractFactoryNetflixDemo/obj/Debug/net8.0/AbstractFactoryNetflixDemo.AssemblyInfoInputs.cache
+/home/camillia/Etudes/ESGI/4AL/CC design/AbstractFactoryNetflixDemo/AbstractFactoryNetflixDemo/obj/Debug/net8.0/AbstractFactoryNetflixDemo.AssemblyInfo.cs
+/home/camillia/Etudes/ESGI/4AL/CC design/AbstractFactoryNetflixDemo/AbstractFactoryNetflixDemo/obj/Debug/net8.0/AbstractFactoryNetflixDemo.csproj.CoreCompileInputs.cache
+/home/camillia/Etudes/ESGI/4AL/CC design/AbstractFactoryNetflixDemo/AbstractFactoryNetflixDemo/obj/Debug/net8.0/AbstractFactoryNetflixDemo.sourcelink.json
+/home/camillia/Etudes/ESGI/4AL/CC design/AbstractFactoryNetflixDemo/AbstractFactoryNetflixDemo/obj/Debug/net8.0/AbstractFactoryNetflixDemo.dll
+/home/camillia/Etudes/ESGI/4AL/CC design/AbstractFactoryNetflixDemo/AbstractFactoryNetflixDemo/obj/Debug/net8.0/refint/AbstractFactoryNetflixDemo.dll
+/home/camillia/Etudes/ESGI/4AL/CC design/AbstractFactoryNetflixDemo/AbstractFactoryNetflixDemo/obj/Debug/net8.0/AbstractFactoryNetflixDemo.pdb
+/home/camillia/Etudes/ESGI/4AL/CC design/AbstractFactoryNetflixDemo/AbstractFactoryNetflixDemo/obj/Debug/net8.0/AbstractFactoryNetflixDemo.genruntimeconfig.cache
+/home/camillia/Etudes/ESGI/4AL/CC design/AbstractFactoryNetflixDemo/AbstractFactoryNetflixDemo/obj/Debug/net8.0/ref/AbstractFactoryNetflixDemo.dll
